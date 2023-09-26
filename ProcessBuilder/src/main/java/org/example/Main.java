@@ -4,7 +4,7 @@ import java.io.IOException;
 
 public class Main {
     public static void main(String[] args) {
-        
+
         //abrirPorcesoDarOrden("cat","/home/dam2/Escritorio/Prueba//PRUEBAS.txt");
         abrirPorcesoDarOrden("ping","www.Google.com");
         //abrirProceso("xfce4-terminal");
